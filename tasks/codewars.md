@@ -38,4 +38,3 @@ Codewars:
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
      - http://www.codewars.com/kata/can-you-get-the-loop
-  
